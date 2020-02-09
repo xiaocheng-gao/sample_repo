@@ -6,3 +6,4 @@ X = iris.data
 y = iris.target
 print(X)
 print(y)
+print(X, y)
