@@ -9,3 +9,4 @@ print(y)
 print(X, y)
 
 plt.plot(X)
+plt.plot(y)
