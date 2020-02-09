@@ -8,3 +8,5 @@ y = iris.target
 print(X)
 print(y)
 print(X, y)
+
+plt.plot(X)
